@@ -10,4 +10,3 @@ else
 {
     Console.WriteLine("{0} Наибольшее число", number2);
 }
-Console.WriteLine("Наибольшее число");
